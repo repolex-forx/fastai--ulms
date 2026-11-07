@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fastai/ulms/commit/d349777284725678de65b81d9fd37eb97a85d957",
       "git:hexsha": "d349777284725678de65b81d9fd37eb97a85d957",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
